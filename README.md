@@ -1,5 +1,6 @@
 ### Hi there 👋
-Find on Linkedin - https://www.linkedin.com/in/msmayank/
+Find me on Linkedin - https://www.linkedin.com/in/msmayank/
+
 Mayank Shukla
 Software Developer
 Tata Consultancy Services
