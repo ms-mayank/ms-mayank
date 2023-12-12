@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Find on Linkedin - https://www.linkedin.com/in/msmayank/
 Mayank Shukla
 Software Developer
 Tata Consultancy Services
@@ -9,7 +9,7 @@ Tata Consultancy Services
 ★ Frontend : Reactjs, Javascript
 ☆ Programming Language : Python
 ★ Database : SQL [ MySQL ] certified by NPTEL IIT Kharagpur. 
-☆ Cloud : Microsoft Azure [ AZ 104 ]
+☆ Cloud : Microsoft Azure [ AZ 900, AZ 104 ]
 ★ Project Framework : Agile [ Scrum ]
 ☆ Web Technology : HTML, CSS, Bootstrap
 
@@ -22,7 +22,7 @@ Dynamic, Passionate, Inspiring, Responsible and Helping nature are the adjective
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
