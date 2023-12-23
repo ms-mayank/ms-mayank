@@ -1,4 +1,4 @@
-![logo](https://github.com/ms-mayank/ms-mayank/blob/main/1702618185737.jpg)
+![logo](https://github.com/ms-mayank/ms-mayank/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Mayank Shukla</h1>
 <h3 align="center">A passionate frontend developer from India IN.</h3>
 
