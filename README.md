@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mayank Shukla</h1>
 <h3 align="center">A passionate frontend developer from India IN.</h3>
 
+<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0spCYb3RqM2AQefyd0PjXJ&ust=1703421613557000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNi63aLKpYMDFQAAAAAdAAAAABAD">
+
 - 👨‍💻 All of my projects are available at [https://ms-mayank.github.io/](https://ms-mayank.github.io/)
 
 - 💬 Ask me about **web development, Python, Software Engineering**
