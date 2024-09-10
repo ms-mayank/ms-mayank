@@ -18,13 +18,13 @@
 <a href="https://linkedin.com/in/msmayank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msmayank" height="30" width="40" /></a>
 </p>
 TECHNICAL SKILLS:
-● Frontend - JavaScript, React.Js
-● Programming Language - Python ( Flask, Django)
-● Web Technology: HTML, CSS, JSON, XML
-● Database - SQL [ MySQL ] certified by NPTEL IIT Kharagpur.
-● Cloud - Microsoft Azure Certified [ AZ 104, AZ 900 ]
+● Frontend - JavaScript, React.Js <br>
+● Programming Language - Python ( Flask, Django)<br>
+● Web Technology: HTML, CSS, JSON, XML<br>
+● Database - SQL [ MySQL ] certified by NPTEL IIT Kharagpur.<br>
+● Cloud - Microsoft Azure Certified [ AZ 104, AZ 900 ]<br>
 ● Other: REST API Architecture, AGILE Methodology, Object Oriented Programming (OOPs), SDLC, Version control system (GIT &
-Github), Defect Tracking tool (Jira), design platform (Figma, Photoshop PSD & Zeplin )
+Github), Defect Tracking tool (Jira), design platform (Figma, Photoshop PSD & Zeplin )<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
