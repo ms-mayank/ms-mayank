@@ -1,15 +1,15 @@
 ![logo](https://github.com/ms-mayank/ms-mayank/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Mayank Shukla</h1>
-<h3 align="center">A passionate Software Developer from India IN.</h3>
+<h3 align="center">A passionate Fullstack Software Developer from India IN.</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://ms-mayank.github.io/](https://ms-mayank.github.io/)
+- 👨‍💻 My Portfolio and Projects are available at [https://ms-mayank.github.io/](https://ms-mayank.github.io/)
 
-- 💬 Ask me about **web development, Python, Software Engineering**
+- 💬 Ask me about **web development, Python and Software Engineering**
 
 - 📫 How to reach me **msmayank555@gmail.com**
 
-- 📄 Know about my experiences [https://ms-mayank.github.io/](https://ms-mayank.github.io/)
+- 📄 Know about my experiences [https://ms-mayank.github.io/](https://ms-mayank.github.io/#about)
 
 - ⚡ Fun fact **I am a man of Technology with Leadership quality.**
 
@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/msmayank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msmayank" height="30" width="40" /></a>
 </p>
-TECHNICAL SKILLS:
+<h3 align="left">Languages and Tools:</h3> <br>
 ● Frontend - JavaScript, React.Js <br>
 ● Programming Language - Python ( Flask, Django)<br>
 ● Web Technology: HTML, CSS, JSON, XML<br>
